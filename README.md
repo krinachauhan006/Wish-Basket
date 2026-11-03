@@ -37,8 +37,6 @@ Wish Basket is a web-based gift shopping management system developed using **Pyt
 - Database Migrations
 - Django Admin Panel Customization
 
-Example:
-
 ```markdown
 ```
 ## ⚙️ Installation and Setup
